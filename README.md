@@ -1,9 +1,9 @@
 # PythonPortfolio
-Projekty kódované pythonom
+Projekty kódované v pythone
 
 ## xml
 - tvorba custom xml feedu pre merchant center z csv súboru
-- upgates.cz vytváral nedostatočný xml feed, preto som pristúpil k ustom riešeniu
+- upgates.cz vytváral nedostatočný xml feed, preto som pristúpil k custom riešeniu
 - v súčastnosti je manuálne python kód spúštaný podľa potreby, v pláne je ho umiestniť na aws - ec2 (doker)
 
 ## django
