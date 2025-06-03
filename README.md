@@ -16,6 +16,9 @@ Projekty kódované v pythone
   - zoznam klientov s podrobnosťami o klientovi
   - pridanie odstránenie klientov
   - vyhľadávanie, filtrovanie
+
+![Screenshot](add_customer.png)
+
 - __app__ fotografie
   - upload fotografií (možnosť na mobile spraviť buttonom fotografiu)
   - štítkovanie fotografií tagmi
