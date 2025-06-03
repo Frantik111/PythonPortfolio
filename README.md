@@ -7,7 +7,7 @@ Projekty kódované v pythone
 - v súčastnosti je manuálne python kód spúštaný podľa potreby, v pláne je ho umiestniť na aws - ec2 (doker)
 
 ## django
-- pre potreby firmy a nespokojnosti s VBA excel objednávkami (vibe coding v 2023 - modularne okno s verifikaciou a spracovaním údajov)
+- pre potreby firmy a nespokojnosti s VBA excel objednávkami (vibe coding v 2023 - modularne okno s verifikáciou a spracovaním údajov)
 - biznis bootstrap design
 - __app__ customer_import
   - pomocou jupiterstudio vyčistené csv údaje z idoklad.sk (odstránenie duplicít, atď...)
@@ -34,13 +34,13 @@ Projekty kódované v pythone
   - css @media print
 - __app__ synchro sklad
   - dodavateľské feedy stiahnuté 2x z FTP, 1x z emailu
-  - aktualizovaná databáza podľa EAN kódu (aj pre potreby časového vývouju skladovej dostupnosti)
+  - aktualizovaná databáza podľa EAN kódu (aj pre potreby časového vývoju skladovej dostupnosti)
   - doplnanie položiek na základe csv súboru
   - tvorba csv s aktuálnou skladovou dostuposťou pre upgates.sk
 - finesy
-  - štandardne dijango umiestnuje konfigurácie aplikácie do priečinku s rovnakým názvom ako je názov aplikácie, pre nespokojnosť bol premenovaný na settings
-  - django seasons použítý na prenos variabilných hodnôt medzi jednotlivými appkami (id klienta z app customers do app objedávka )
-  - custom user a použitie @login_required pre obmedzenie prístupu k funkciam
+  - štandardne dijango umiestňuje konfigurácie aplikácie do priečinku s rovnakým názvom, ako je názov aplikácie, pre nespokojnosť bol premenovaný na settings
+  - django seasons použitý na prenos variabilných hodnôt medzi jednotlivými appkami (id klienta z app customers do app objedávka )
+  - custom user a použitie @login_required pre obmedzenie prístupu k funkciám
 - plány
   - po odkončení wasche nasadenie na AWS EC2 (docker)
   - tvorba skladu predajne pre zvýšenie efektivity
