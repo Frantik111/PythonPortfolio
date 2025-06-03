@@ -31,6 +31,7 @@ Projekty kódované v pythone
   - zoznam kobercov v objednávke
   - procedúry aplikované na koberce pri čistení a oprave
   - custom formuláre
+  - css @media print
 - __app__ synchro sklad
   - dodavateľské feedy stiahnuté 2x z FTP, 1x z emailu
   - aktualizovaná databáza podľa EAN kódu (aj pre potreby časového vývouju skladovej dostupnosti)
