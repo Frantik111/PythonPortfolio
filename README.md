@@ -18,11 +18,18 @@ Projekty kódované v pythone
   - vyhľadávanie, filtrovanie
 
 ![Screenshot](add_customer.png)
+![Screenshot](all_customers.png)
+![Screenshot](customer_detail.png)
 
 - __app__ fotografie
   - upload fotografií (možnosť na mobile spraviť buttonom fotografiu)
   - štítkovanie fotografií tagmi
-  - priečinková organizácia fotografií na základe pridelených tagov
+  - priečinková organizácia fotografií na základ pridelených tagov
+
+![Screenshot](gallery.png)
+![Screenshot](all_tags.png)
+![Screenshot](tag_folder.png)
+
 - __app__ values
   - navrhnuté ako settings pre django aplikáciu, išpirované visual studio settings
   - funkcia si vyžiada pár hodnôt
@@ -35,6 +42,10 @@ Projekty kódované v pythone
   - procedúry aplikované na koberce pri čistení a oprave
   - custom formuláre
   - css @media print
+
+![Screenshot](all_orders.png)
+![Screenshot](order_detail.png)
+
 - __app__ synchro sklad
   - dodavateľské feedy stiahnuté 2x z FTP, 1x z emailu
   - aktualizovaná databáza podľa EAN kódu (aj pre potreby časového vývoju skladovej dostupnosti)
