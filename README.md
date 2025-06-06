@@ -12,7 +12,7 @@ Projekty kódované v pythone
 - Pre potreby firmy a nespokojnosti s riešením VBA excel objednávkami (vibe coding v 2023 - modulárne okno s verifikáciou a spracovaním údajov).
 - Biznis bootstrap design aplikovaný na aplikácie
 - __app__ customer_import
-  - Pomocou jupiterstudio vyčistené csv údaje z idoklad.sk (odstránenie duplicít, atď...)
+  - Pomocou jupiterstudio vyčistené csv údaje z idoklad.sk (odstránenie duplicít, čistenie telefónych čísiel, PSČ, atď...)
   - Import pomocou pandas do model app customer
 - __app__ customer
   - Zoznam klientov s podrobnosťami o klientovi
